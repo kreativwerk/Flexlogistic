@@ -1,9 +1,9 @@
 {
   "artboards": [
-    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1440, "h": 3300, "title": "Landing Page – Desktop" },
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1440, "h": 3650, "title": "Landing Page – Desktop" },
     { "file": "Mobile.dc.html", "x": 1540, "y": 0, "w": 390, "h": 3560, "title": "Landing Page – Mobil" },
-    { "file": "AlternativeDunkel.dc.html", "x": 0, "y": 3460, "w": 480, "h": 640, "title": "Alternative A – Nachtschicht" },
-    { "file": "AlternativeSignal.dc.html", "x": 580, "y": 3460, "w": 480, "h": 640, "title": "Alternative B – Signal" }
+    { "file": "AlternativeDunkel.dc.html", "x": 0, "y": 3810, "w": 480, "h": 640, "title": "Alternative A – Nachtschicht" },
+    { "file": "AlternativeSignal.dc.html", "x": 580, "y": 3810, "w": 480, "h": 640, "title": "Alternative B – Signal" }
   ],
   "annotations": [
     {
