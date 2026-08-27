@@ -1,0 +1,18 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1440, "h": 3300, "title": "Landing Page – Desktop" },
+    { "file": "Mobile.dc.html", "x": 1540, "y": 0, "w": 390, "h": 3560, "title": "Landing Page – Mobil" },
+    { "file": "AlternativeDunkel.dc.html", "x": 0, "y": 3460, "w": 480, "h": 640, "title": "Alternative A – Nachtschicht" },
+    { "file": "AlternativeSignal.dc.html", "x": 580, "y": 3460, "w": 480, "h": 640, "title": "Alternative B – Signal" }
+  ],
+  "annotations": [
+    {
+      "id": "richtung",
+      "x": 2020,
+      "y": 0,
+      "w": 300,
+      "text": "Hauptrichtung: „Industrielle Präzision“ – helle Seite mit tiefdunklem Navy-Hero, Space Grotesk + Instrument Sans, das bestehende App-Blau verfeinert (#2557E8). Marketing-Aufbau: 1 Versprechen im Hero, 1 primäre Aktion (Transport ausschreiben) über die ganze Seite wiederholt, Produkt-Mock als Beweis, getrennte Nutzenargumente für Verlader und Fahrer.\n\nNoch offen (in eckigen Klammern markiert): Pilotkunden-Zitat, Kontaktdaten, Firmenname im Footer.\n\nUnten links: zwei alternative Richtungen als Skizzen – A dunkel, B Warnorange. Sag Bescheid, falls eine davon weiterverfolgt werden soll."
+    }
+  ],
+  "launch": { "view": "canvas" }
+}
